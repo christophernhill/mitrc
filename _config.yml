@@ -1,1 +1,2 @@
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 title: MIT Research Computing Platforms
