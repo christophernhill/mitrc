@@ -4,7 +4,7 @@ This page provides a summary list of computing resources that are available to s
 
 | Name          | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| Azure Cloud   | https://cloud.mit.edu/credits | The cloud credits program currently has Microsoft Azure credits available. These can be used for any of the Azure Virtual machines and Azure machine learning tools. The resources include clusters of recent generation Volta GPUs with high-speed interconnects, suitable for large machine learning workflows. |
+| Microsoft Azure Cloud   | https://cloud.mit.edu/credits | The cloud credits program currently has Microsoft Azure credits available. These can be used for any of the Azure Virtual machines and Azure machine learning tools. The resources include clusters of recent generation Volta GPUs with high-speed interconnects, suitable for large machine learning workflows. |
 |               |                               |  |
 
 
