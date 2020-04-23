@@ -1,4 +1,6 @@
-# Resources
+# Resource quick list
+
+This page provides a quick list of resources available to all researchers.
 
 ## MIT cloud credits program
 
