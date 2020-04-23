@@ -1,6 +1,11 @@
-This page provides a quick list of resources available to all researchers.
+This page provides a summary list of computing resources that are available to support research
 
 ## MIT cloud credits program
+
+| Name          | URL           | Details     |
+| ------------- |:-------------:| ------------:|
+| Azure Cloud   | https://cloud.mit.edu/credits | $1600 |
+
 
 ## MIT campus wide hardware
 
