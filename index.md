@@ -3,7 +3,7 @@ This page provides a summary list of computing resources that are available to s
 ## MIT cloud credits program
 
 | Name          | URL           | Details     |
-| ------------- |:-------------:| ------------:|
+| ------------- |:-------------:| ------------|
 | Azure Cloud   | https://cloud.mit.edu/credits | The cloud credits program currently has Microsoft Azure credits available.  |
 |               |                               |  |
 
