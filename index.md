@@ -30,7 +30,7 @@ This page provides a summary list of computing resources that are available to s
 
 ## COVID-19 research support programs
 
-## Cloud provider credits programs
+## Cloud provider standard credits programs
 
 ### AWS
 #### Community datasets
