@@ -1,4 +1,4 @@
-This page provides a summary list of computing resources that are available to support research
+This page provides a summary list of key computing resources that are available to support research. 
 
 ## MIT cloud credits program
 
