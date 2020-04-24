@@ -1,4 +1,4 @@
-This page provides a summary list and contact links for some key computing hardware (physical and virtual) resources that are available to support campus research. 
+This page provides a summary list and contact links for some key computing and storage hardware (physical and virtual) resources that are available to support campus research. 
 
 ## MIT cloud credits program
 
@@ -35,10 +35,17 @@ This page provides a summary list and contact links for some key computing hardw
 | | |
 | Kavli Computing | [Kavli Computing](https://space.mit.edu/research/high-performance-computing/) | The MIT Kavli Institute operates a cluster for astrophysics research. THe cluster uses the Slurm resource scheduler and is available for use by Kavli researchers.
 | | |
-
-### KochCore
+| Koch Bioinformatics | [https://ki.mit.edu/sbc/bioinformatics](https://ki.mit.edu/sbc/bioinformatics) | Koch operates a bioinformatics facility which specializes in processing needs of computational biologists
+| | |
 
 ## COVID-19 research support programs
+
+There are a multiple programs providing accelerated access to resources to COVID-19 related activities, some of these are
+
+| Name          | URL           | Details     |
+| ------------- |:-------------:| ------------|
+| OSTP HPC COVID-19 | [https://covid19-hpc-consortium.org](https://covid19-hpc-consortium.org) | Provides rapid access to large compute resources for favorably reviewed mini-proposals. Resources available span very large supercomputers to commercial cloud providers. Projects in need of at scale computer resources for any work related to managing and mitigating the COVID-19 out break are elegible.
+| | |
 
 ## Cloud provider standard credits programs
 
