@@ -27,8 +27,9 @@ This page provides a summary list and contact links for some key computing resou
 
 | Name          | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| TIG Shared Computing          | ttps://tig.csail.mit.edu/shared-computing | The CSAIL infrastructure group (TIG) operates an Openstack cluster and a Slurm cluster for general use by members of CSAIL. These are 
-### TIG/CSAIL
+| TIG Shared Computing          | [https://tig.csail.mit.edu/shared-computing](https://tig.csail.mit.edu/shared-computing) | The CSAIL infrastructure group (TIG) operates an Openstack cluster and a Slurm cluster for general use by members of CSAIL. The Openstack environment supports full virtual machines. The Slurm cluster supports Singularity as a container enginer for Docker containers.  
+| Openmind | | 
+
 ### Openmind
 ### LNS
 ### Kavli
