@@ -33,8 +33,7 @@ This page provides a summary list and contact links for some key computing hardw
 | | |
 | LNS Computing | [http://rc.lns.mit.edu](http://rc.lns.mit.edu) | The Laboratory for Nuclear Science in Physics operates computing resources that are available to researchers within LNS.  Further information and support is available from [pra@mit.edu](mailto:pra@mit.edu).
 | | |
-| Kavli Computing | [Kavli Computing](https://space.mit.edu/research/high-performance-computing/) | The MIT Kavli Institute operates a cluster for astrophysics research. THe cluster uses the Slurm resource scheduler and is available for use by
-Kavli researchers.
+| Kavli Computing | [Kavli Computing](https://space.mit.edu/research/high-performance-computing/) | The MIT Kavli Institute operates a cluster for astrophysics research. THe cluster uses the Slurm resource scheduler and is available for use by Kavli researchers.
 | | |
 
 ### KochCore
