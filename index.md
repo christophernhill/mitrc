@@ -46,6 +46,17 @@ There are a multiple programs providing accelerated access to resources to COVID
 | ------------- |:-------------:| ------------|
 | OSTP HPC COVID-19 | [https://covid19-hpc-consortium.org](https://covid19-hpc-consortium.org) | Provides rapid access to large compute resources for favorably reviewed mini-proposals. Resources available span very large supercomputers to commercial cloud providers. Projects in need of at scale computer resources for any work related to managing and mitigating the COVID-19 out break are elegible.
 | | |
+| MGHPCC COVID-19 | [https://www.mghpcc.org/mghpcc-resources-for-covid-19-research/](https://www.mghpcc.org/mghpcc-resources-for-covid-19-research) | University participants in the Masschusetts Green High Performance Computing Center are pooling capacity to provide accelerated access to COVID-19 projects that may need resources.
+| | |
+| AWS | [https://aws.amazon.com/data-exchange/covid-19](https://aws.amazon.com/data-exchange/covid-19) | AWS has assembled an open repository of COVID-19 data.
+| | |
+| Azure | [https://ai4hcovidgrants.microsoft.com](https://ai4hcovidgrants.microsoft.com) | THe Microsoft Azure organization is providing grants theough its AI for Health program to support COVID-19 computational needs.
+| | |
+| IBM | [https://developer.ibm.com/callforcode/](https://developer.ibm.com/callforcode/) | IBM is sponsoring a call for code program for COVID-19 projects.
+| | |
+| GCP | [https://edu.google.com/programs/credits/research](https://edu.google.com/programs/credits/research) | Google cloud is providing a rapid cloud credits application process for COVID-19 related activities.
+| | |
+
 
 ## Cloud provider standard credits programs
 
