@@ -23,15 +23,16 @@ This page provides a summary list and contact links for some key computing hardw
 | | | |
 | submit.mit.edu | [http://submit.mit.edu](http://submit.mit.edu) | submit.mit.edu is an experimental gateway to the Open Science Grid operated by the MIT Laboratory for Nuclear Science. It is intended to be available for anyone on campus. 
 
-## Major DLC hardware
+## DLC shared hardware
 
 | Name          | URL           | Details     |
 | ------------- |:-------------:| ------------|
 | TIG Shared Computing          | [https://tig.csail.mit.edu/shared-computing](https://tig.csail.mit.edu/shared-computing) | The CSAIL infrastructure group (TIG) operates an Openstack cluster and a Slurm cluster for general use by members of CSAIL. The Openstack environment supports full virtual machines. The Slurm cluster supports Singularity as a container enginer for Docker containers. Furhter information and support is available at [help@csail.mit.edu](mailto:help@csail.mit.edu).
 | | |
 | Openmind | [https://openmind.mit.edu](https://openmind.mit.edu)| Openmind is a shared cluster for Brain and Cognitive Science research at MIT. It has several hundred GPU cards and just under 2000 CPU cores. The cluster resources are managed by the Slurm scheduler wich provides support for batch, interactive and reservation based use. The Singulairty container system is available for executing custom Docker images. Further information and support is available from [neuro-admin@techsquare.com](mailto:neuro-admin@techsquare.com).
+| | |
+| LNS Computing | [http://rc.lns.mit.edu](http://rc.lns.mit.edu) | The Laboratory for Nuclear Science in Physics operates computing resources that are available to researchers within LNS.  Further information and support is available from [pra@mit.edu](mailto:pra@mit.edu).
 
-### LNS
 ### Kavli
 ### CGCS
 ### KochCore
