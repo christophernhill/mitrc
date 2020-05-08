@@ -63,19 +63,22 @@ There are a multiple programs providing accelerated access to resources to COVID
 | Provider      | URL           | Details     |
 | ------------- |:-------------:| ------------|
 |AWS  | https://aws.amazon.com/grants | Provides cloud credit grants for both research and education projects.
+| | |
 |AWS  | https://aws.amazon.com/opendata | Hosts open data for sharing with others. AWS has a process for applying to have datasets considered for hosting. 
 | | |
 | Azure | https://azure.microsoft.com/en-us/education | Provides Azure cloud credits for education
+| | |
 | Azure | https://azure.microsfoft.com/en-us/services/open-datasets | Hosts standard datasets for general use including machine learning. Additional datasets for inclusion can be nominated.
 | | |
-| GCP | https://edu.google.com/programs/students, https://edu.google.com/programs/faculty, https://edu.google.com/programs/researchers | Offers free credits and technical resources for education and research.
+| Google | https://edu.google.com/programs/students, https://edu.google.com/programs/faculty, https://edu.google.com/programs/researchers | Offers free credits and technical resources for education and research.
 | | |
 
-
-### GCP
 
 ## Long term storage
 
+| Provider      | URL           | Details     |
+| ------------- |:-------------:| ------------|
+| Google        | 
 ### Google Drive
 ### Code42
 ### TSM
@@ -84,3 +87,8 @@ There are a multiple programs providing accelerated access to resources to COVID
 ## National facilities
 
  XSEDE, DOE Incite, Open Science Grid
+ 
+ 
+### About this page
+
+This paage is maintained in github. We welcome updates and addition pull requests. 
