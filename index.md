@@ -58,9 +58,12 @@ There are a multiple programs providing accelerated access to resources to COVID
 | | |
 
 
-## Cloud provider standard credits programs
+## Major cloud provider standard credits programs
 
-### AWS
+| Provider      | URL           | Details     |
+| ------------- |:-------------:| ------------|
+|AWS  | https://aws.amazon.com/grants | Provides cloud credit grants for both research and education projects.
+
 #### Community datasets
 
 ### Azure
