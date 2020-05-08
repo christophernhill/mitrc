@@ -63,11 +63,9 @@ There are a multiple programs providing accelerated access to resources to COVID
 | Provider      | URL           | Details     |
 | ------------- |:-------------:| ------------|
 |AWS  | https://aws.amazon.com/grants | Provides cloud credit grants for both research and education projects.
-|AWS  | https://aws.amazon.com/opendata | Hosts open data for sharing with others. AWS has a process for applying
+|AWS  | https://aws.amazon.com/opendata | Hosts open data for sharing with others. AWS has a process for applying to have datasets considered for hosting. 
+| Azure | https://azure.microsfoft.com/en-us/services/open-datasets | 
 
-#### Community datasets
-
-### Azure
 
 ### GCP
 
