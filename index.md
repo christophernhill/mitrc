@@ -78,11 +78,13 @@ There are a multiple programs providing accelerated access to resources to COVID
 
 | Provider      | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| Google        | 
-### Google Drive
-### Code42
-### TSM
-### NESE
+| Google        |               |
+| | |
+| Code42 | | 
+| | |
+| TSM | |
+| NESE | |
+
 
 ## National facilities
 
