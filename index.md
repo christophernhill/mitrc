@@ -83,8 +83,7 @@ There are a multiple programs providing accelerated access to resources to COVID
 | Code42 | [Crashplan](https://ist.mit.edu/crashplan/recommended) | MIT accounts can use the Code42 Crashplan service as a
 cloud backup service for desktop systems. 
 | | |
-| TSM | [TSM](https://ist.mit.edu/backup/tsm) | For servers MIT provides access to a backup service for servers that
-support all operating systems and hardware.
+| TSM | [TSM](https://ist.mit.edu/backup/tsm) | For servers MIT provides access to a backup service for servers that support all operating systems and hardware.
 | | |
 | NESE | [NESE]() | 
 
