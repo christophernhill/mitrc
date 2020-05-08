@@ -80,7 +80,7 @@ There are a multiple programs providing accelerated access to resources to COVID
 | ------------- |:-------------:| ------------|
 | Google        |   https://drive.google.com            | All MIT accounts include access to Google drive storage that does not have any pre-set capacity limits. Files can be uploaded using web-clients or command line clients such as [rclone](https://rclone.org).
 | | |
-| Code42 | | 
+| Code42 | [https://ist.mit.edu/crashplan/recommended](Crashplan) | MIT provides a  
 | | |
 | TSM | |
 | NESE | |
