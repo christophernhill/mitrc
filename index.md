@@ -69,7 +69,7 @@ There are a multiple programs providing accelerated access to resources to COVID
 
 ## Long term storage
 
-### Gdrive
+### Google Drive
 ### Code42
 ### TSM
 ### NESE
