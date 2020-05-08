@@ -50,7 +50,7 @@ There are a multiple programs providing accelerated access to resources to COVID
 | | |
 | AWS | [https://aws.amazon.com/data-exchange/covid-19](https://aws.amazon.com/data-exchange/covid-19) | AWS has assembled an open repository of COVID-19 data.
 | | |
-| Azure | [https://ai4hcovidgrants.microsoft.com](https://ai4hcovidgrants.microsoft.com) | THe Microsoft Azure organization is providing grants theough its AI for Health program to support COVID-19 computational needs.
+| Azure | [https://ai4hcovidgrants.microsoft.com](https://ai4hcovidgrants.microsoft.com) | The Microsoft Azure organization is providing grants theough its AI for Health program to support COVID-19 computational needs.
 | | |
 | IBM | [https://developer.ibm.com/callforcode/](https://developer.ibm.com/callforcode/) | IBM is sponsoring a call for code program for COVID-19 projects.
 | | |
