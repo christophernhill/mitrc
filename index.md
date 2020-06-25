@@ -100,4 +100,4 @@ Academic researchers and their collaborators can write proposals for access to n
 ### About this page
 
 This page is maintained in github. 
-If you have something you want to add/change, please feel free to submit a PR. 
+If you have something you want to add/change, please don't be shy and feel super free to submit a PR. 
