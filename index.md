@@ -94,8 +94,9 @@ Academic researchers and their collaborators can write proposals for access to n
  
 | Provider      | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| NSF XSEDE    | https://www.xsede.org | NSF supports a network of shared resources for workloads of all sizes and in all disciplines and provides easy access to getting started accounts. |
-| DOE Incite   |
+| NSF XSEDE    | https://www.xsede.org | The US National Science Foundation supports a network of shared resources for workloads of all sizes and in all disciplines. The XSEDE program provides easy access to getting started accounts and training as well as a competitive proposal process for access to large resources. |
+| DOE Incite   | https://www.doeleadershipcomputing.org/proposal/call-for-proposals/ | The US Department of Energy operates some of the worlds largest high-performance computers. Access to these systeems for large problems that align with DOE missions is available through competitive proposals to the INCITE program. 
+| Open Science Grid | https://opensciencegrid.org | The Open Science Grid is a large-scale distributed computing platform that provides opportinistic cycles on all sorts of systems around the US and beyond. Its operations are supported by the US National Science Foundation, but many facilities allow opportunistic workloads from the Open Science Grid. Its primary area of application is massive ensembles of independent compute tasks of all sorts.
 ### About this page
 
 This paage is maintained in github. We welcome updates and addition pull requests. 
