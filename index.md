@@ -89,9 +89,13 @@ There are a multiple programs providing accelerated access to resources to COVID
 
 ## National facilities
 
+Academic researchers and their collaborators can write proposals for access to numerous large scale computing facilities both within the US and globally. These include some of the largest systems available. The programs include
  XSEDE, DOE Incite, Open Science Grid
  
- 
+| Provider      | URL           | Details     |
+| ------------- |:-------------:| ------------|
+| NSF XSEDE    | https://www.xsede.org | NSF supports a network of shared resources for workloads of all sizes and in all disciplines and provides easy access to getting started accounts. |
+| DOE Incite   |
 ### About this page
 
 This paage is maintained in github. We welcome updates and addition pull requests. 
