@@ -1,4 +1,4 @@
-This page provides a summary list and contact links for some key computing and storage hardware (physical and virtual) resources that are available to support campus research. 
+This page provides a summary list and contact links for some key computing and storage hardware (physical and virtual) resources that are available to support computing needs of campus research. There is a vibrant community of computational resources avaiable to support research that go beyond physical/virtual hardware too. This page focusses core physical/virtual hardware infrastructure that is readily available. 
 
 ## MIT cloud credits program
 
@@ -27,7 +27,7 @@ This page provides a summary list and contact links for some key computing and s
 
 | Name          | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| TIG Shared Computing          | [https://tig.csail.mit.edu/shared-computing](https://tig.csail.mit.edu/shared-computing) | The CSAIL infrastructure group (TIG) operates an Openstack cluster and a Slurm cluster for general use by members of CSAIL. The Openstack environment supports full virtual machines. The Slurm cluster supports Singularity as a container enginer for Docker containers. Furhter information and support is available at [help@csail.mit.edu](mailto:help@csail.mit.edu).
+| TIG Shared Computing          | [https://tig.csail.mit.edu/shared-computing](https://tig.csail.mit.edu/shared-computing) | The CSAIL infrastructure group (TIG) operates an Openstack cluster and a Slurm cluster for general use by members of CSAIL. The Openstack environment supports full virtual machines. The Slurm cluster supports Singularity as a container enginer for Docker containers. Further information and support is available at [help@csail.mit.edu](mailto:help@csail.mit.edu).
 | | |
 | Openmind | [https://openmind.mit.edu](https://openmind.mit.edu)| Openmind is a shared cluster for Brain and Cognitive Science research at MIT. It has several hundred GPU cards and just under 2000 CPU cores. The cluster resources are managed by the Slurm scheduler wich provides support for batch, interactive and reservation based use. The Singulairty container system is available for executing custom Docker images. Further information and support is available from [neuro-admin@techsquare.com](mailto:neuro-admin@techsquare.com).
 | | |
@@ -99,4 +99,5 @@ Academic researchers and their collaborators can write proposals for access to n
 | Open Science Grid | https://opensciencegrid.org | The Open Science Grid is a large-scale distributed computing platform that provides opportinistic cycles on all sorts of systems around the US and beyond. Its operations are supported by the US National Science Foundation, but many facilities allow opportunistic workloads from the Open Science Grid. Its primary area of application is massive ensembles of independent compute tasks of all sorts.
 ### About this page
 
-This paage is maintained in github. We welcome updates and addition pull requests. 
+This page is maintained in github. 
+If you have something you want to add/change, please feel free to submit a PR. 
