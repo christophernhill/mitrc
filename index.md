@@ -4,13 +4,13 @@ This page provides a summary list and contact links for some key computing and s
 
 | Name          | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| Microsoft Azure Cloud   | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | The cloud credits program currently has Microsoft Azure credits available. These can be used for any of the Azure Virtual machines and Azure machine learning tools. The resources include clusters of recent generation Volta GPUs with high-speed interconnects, suitable for large machine learning workflows. |
-|               |                               |  |
-| Google Compute Platform | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | Currently all credits for Google Compute Platform have been assigned to projects. |
+| Microsoft Azure Cloud   | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | The cloud credits program currently has Microsoft Azure credits available. These can be used for any of the Azure Virtual machines and Azure machine learning tools. The resources include clusters of recent generation Volta GPUs with high-speed interconnects, suitable for large machine learning workflows.  
+|               |                               |  
+| Google Compute Platform | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | Currently all credits for Google Compute Platform have been assigned to projects. Google does provide extensive direct credits to researchers. Further information is available from [abpadgett@google.com](mailto:abpadgett@google.com)  |
 | | |
-| Amazon AWS | | |
+| Amazon AWS | [https://aws.amazon.com](https://aws.amazon.com) |  Amazon has several programs that provide credits for computing and data storage for educational, research and societal good. Further information is available from [cnoonan@amazon.com ](mailto:cnoonan@amazon.com).
 | | |
-| Penguin POD | [https://pod.penguincomputing.com](https://pod.penguincomputing.com) | Penguin 
+| Penguin POD | [https://pod.penguincomputing.com](https://pod.penguincomputing.com) | Penguin computing are preparing an AMD GPU service that will be available to MIT researchers in the fall of 2020.  Further information is available from [cdeyoung@penguincomputing.com](mailto:cdeyoung@penguincomputing.com). 
 
 
 ## MIT campus wide hardware
