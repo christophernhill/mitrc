@@ -84,8 +84,7 @@ The compute resources listed provie various storage options, especially for acti
 
 | Provider      | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| Google        |   https://drive.google.com            | All MIT accounts include access to Google drive storage that does not have any pre-set capacity limits. Files can be uploaded using web-clients or command line clients such as [rclone](https://rclone.org). 
-rclone to Google drive officially supports at least 1TB of transfer per day, although sometimes the cap allows larger amounts. Transfer speeds are sufficient to move 1TB within a few hours.
+| Google        |   https://drive.google.com            | All MIT accounts include access to Google drive storage that does not have any pre-set capacity limits. Files can be uploaded using web-clients or command line clients such as [rclone](https://rclone.org). rclone to Google drive officially supports at least 1TB of transfer per day, although sometimes the cap allows larger amounts. Transfer speeds are sufficient to move 1TB within a few hours.
 | | |
 | Code42 | [Crashplan](https://ist.mit.edu/crashplan/recommended) | MIT accounts can use the Code42 Crashplan service as a cloud backup service for desktop systems.  
 | | |
