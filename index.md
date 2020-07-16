@@ -7,6 +7,10 @@ This page provides a summary list and contact links for some key computing and s
 | Microsoft Azure Cloud   | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | The cloud credits program currently has Microsoft Azure credits available. These can be used for any of the Azure Virtual machines and Azure machine learning tools. The resources include clusters of recent generation Volta GPUs with high-speed interconnects, suitable for large machine learning workflows. |
 |               |                               |  |
 | Google Compute Platform | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | Currently all credits for Google Compute Platform have been assigned to projects. |
+| | |
+| Amazon AWS | | |
+| | |
+| Penguin POD | [https://pod.penguincomputing.com](https://pod.penguincomputing.com) | Penguin 
 
 
 ## MIT campus wide hardware
@@ -74,18 +78,24 @@ There are a multiple programs providing accelerated access to resources to COVID
 | | |
 
 
-## Long term storage
+## Longer term storage
+
+The compute resources listed provie various storage options, especially for active data. For longer term storage some available general services are listed below. Many research communities also partcipate in domain specific archival projects such as ( e.g. [EMPIAR](https://www.ebi.ac.uk/pdbe/emdb/empiar/about), [PDB](https://www.rcsb.org), [BCO](https://www.bco-dmo.org), [General List](https://www.re3data.org/search) etc.. ). Long term archival of large digital artifacts is an evolving field. MIT libraries provides online and in-person services to assist researchers in identifying digital archival practices. [https://libraries.mit.edu/data-management/](https://libraries.mit.edu/data-management/).
 
 | Provider      | URL           | Details     |
 | ------------- |:-------------:| ------------|
 | Google        |   https://drive.google.com            | All MIT accounts include access to Google drive storage that does not have any pre-set capacity limits. Files can be uploaded using web-clients or command line clients such as [rclone](https://rclone.org). 
-|               |                                       | rclone to Google drive officially supports at least 1TB of transfer per day, although sometimes the cap allows larger amounts. Transfer speeds are sufficient to move 1TB within a few hours.
+rclone to Google drive officially supports at least 1TB of transfer per day, although sometimes the cap allows larger amounts. Transfer speeds are sufficient to move 1TB within a few hours.
 | | |
 | Code42 | [Crashplan](https://ist.mit.edu/crashplan/recommended) | MIT accounts can use the Code42 Crashplan service as a cloud backup service for desktop systems.  
 | | |
 | TSM | [TSM](https://ist.mit.edu/backup/tsm) | For self-managed servers MIT provides access to a backup service for servers that support all operating systems and hardware.
 | | |
-| NESE | [NESE](https://nese.mghpcc.org) | The Northeast Storage Exchange is an experimental large-capacity storage infrastructure that is jointly operated across several regional universities (BU, Harvard, MIT, UMass, Northeastern). It is targetting projects with storage needs that go beyond what is practical with commercial services. The NESE storage service supports both unencrypted and encrypted data access. The service is planned to be a cost effective modest fee for service option for projects with needs that go beyond commercial services. It is in an early test mode with several projects. Further information is available from [mtiernan@mit.edu](mailto:mtiernan@mit.edu).
+| NESE | [NESE](https://nese.mghpcc.org) | The Northeast Storage Exchange is an experimental very large-capacity storage infrastructure that is jointly operated across several regional universities (BU, Harvard, MIT, UMass, Northeastern). It is targetting projects with storage needs that go beyond what is practical with commercial and/or open community services. The NESE storage service supports both unencrypted and encrypted data access. The service is planned to be a cost effective modest fee for service option for projects with needs that go beyond commercial services. It is in an early test mode with several projects. Further information is available from [mtiernan@mit.edu](mailto:mtiernan@mit.edu).
+| | |
+| Dataverse | [Dataverse](https://dataverse.harvard.edu) | Many groups make use of Dataverse services for archiving digital material with an attached DOI. 
+| | |
+| Zenodo    | [Zenodo](https://zenodo.org) | Zenodo is a CERN based service that is openly available for all researchers and provides DOI handles for uploaded collection. 
 
 
 ## National facilities
