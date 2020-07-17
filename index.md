@@ -1,4 +1,4 @@
-This page provides a summary list and contact links for some key computing and storage hardware (physical and virtual) resources that are available to support computing needs of campus research. There is a vibrant community of computational resources avaiable to support research that go beyond physical/virtual hardware too. This page focusses core physical/virtual hardware infrastructure that is readily available. 
+This page provides a summary list and contact links for some key computing and storage hardware (physical and virtual) resources that are available to support computing needs of MIT researchers. There is a vibrant community of computational resources avaiable to support research that go beyond physical/virtual hardware too. This page focusses core physical/virtual hardware infrastructure that is readily available. 
 
 ## MIT cloud credits program
 
@@ -26,6 +26,8 @@ This page provides a summary list and contact links for some key computing and s
 | Satori | [https://mit-satori.github.io](https://mit-satori.github.io) | Satori is a IBM Power 9 large memory node system. It is open to evryone on campus and has optimized software stacks for machine learning and for image stack post-processing for MIT.nano Cryo-EM faciltiies. The system has 256 NVidia Volta GPU cards attached in groups of four to 1TB memory nodes and a total of 2560 Power 9 CPU cores. Hardware access is through the Slurm resource scehduler that suports batch and interactive workload and allows dedicated reservations. A wide range of standard software is available and the Docker compatible Singularity container tool is supported. A standard web based portal [https://satori-portal.mit.edu](https://satori-portal.mit.edu) with Jupyter notebook support is available. Additional compute and storage resources can be purchased by PIs and integrated into the system. Further information and support is available at [satori-support@techsquare.com](mailto:satori-support@techsquare.com).
 | | | |
 | submit.mit.edu | [http://submit.mit.edu](http://submit.mit.edu) | submit.mit.edu is an experimental gateway to the Open Science Grid operated by the MIT Laboratory for Nuclear Science. It is intended to be available for anyone on campus. 
+| | |
+| AMD GPU cluster | [http://amdmit.mit.edu](https://www.amd.com/en/press-releases/2020-06-01-amd-covid-19-hpc-fund-to-deliver-supercomputing-clusters-to-researchers) | AMD and MIT are partnering on a supercomputing resources for machine learning applications from the AMD HPC Fund for COVID-19 research. The system will provide 1PFlop/s of floating point capability through 160 AMD MI50 GPU cards in fall 2020.
 
 ## DLC shared hardware
 
@@ -84,11 +86,11 @@ The compute resources listed provie various storage options, especially for acti
 
 | Provider      | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| Google        |   https://drive.google.com            | All MIT accounts include access to Google drive storage that does not have any pre-set capacity limits. Files can be uploaded using web-clients or command line clients such as [rclone](https://rclone.org). rclone to Google drive officially supports at least 1TB of transfer per day, although sometimes the cap allows larger amounts. Transfer speeds are sufficient to move 1TB within a few hours.
+| Google        |   https://drive.google.com            | All MIT accounts include access to Google drive storage. The storage does not have any pre-set capacity limits. Files can be uploaded using web-clients or command line clients such as [rclone](https://rclone.org). rclone to Google drive officially supports at least 1TB of transfer per day, although sometimes the cap allows larger amounts. Transfer speeds are sufficient to move 1TB within a few hours.
 | | |
-| Code42 | [Crashplan](https://ist.mit.edu/crashplan/recommended) | MIT accounts can use the Code42 Crashplan service as a cloud backup service for desktop systems.  
+| Code42 | [Crashplan](https://ist.mit.edu/crashplan/recommended) | MIT accounts can use the Code42 Crashplan service as a cloud backup service for desktop systems. This provides a self-managed way to mirror laptop and desktop system contents to a cloud recovery service.   
 | | |
-| TSM | [TSM](https://ist.mit.edu/backup/tsm) | For self-managed servers MIT provides access to a backup service for servers that support all operating systems and hardware.
+| TSM | [TSM](https://ist.mit.edu/backup/tsm) | For self-managed servers MIT provides access to a backup service for servers that support all operating systems and hardware. This service is geared toward disaster recovery to backsop self-manage storage servers.
 | | |
 | NESE | [NESE](https://nese.mghpcc.org) | The Northeast Storage Exchange is an experimental very large-capacity storage infrastructure that is jointly operated across several regional universities (BU, Harvard, MIT, UMass, Northeastern). It is targetting projects with storage needs that go beyond what is practical with commercial and/or open community services. The NESE storage service supports both unencrypted and encrypted data access. The service is planned to be a cost effective modest fee for service option for projects with needs that go beyond commercial services. It is in an early test mode with several projects. Further information is available from [mtiernan@mit.edu](mailto:mtiernan@mit.edu).
 | | |
