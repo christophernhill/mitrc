@@ -11,8 +11,7 @@ This page provides a summary list and contact links for some key computing and s
 | Amazon AWS | [https://aws.amazon.com](https://aws.amazon.com) |  Amazon has several programs that provide credits for computing and data storage for educational, research and societal good. Further information is available from [cnoonan@amazon.com ](mailto:cnoonan@amazon.com).
 | | |
 | Penguin POD | [https://pod.penguincomputing.com](https://pod.penguincomputing.com) | Penguin computing are preparing an AMD GPU service that will be available to MIT researchers in the fall of 2020.  Further information is available from [cdeyoung@penguincomputing.com](mailto:cdeyoung@penguincomputing.com). 
-| | |
-| Cloud Bank | [https://www.cloudbank.org](https://www.cloudbank.org) | Cloud Bank is an NSF sponsored intiative that aims to provide a unified portal to access multiple cloud providers. It supports several models, including incorporating cloud funding into proposals in a way that may be exclusive of MTDC F&A.
+
 
 
 ## MIT campus wide hardware
@@ -113,6 +112,8 @@ Academic researchers and their collaborators can write proposals for access to n
 | DOE Incite   | [INCITE](https://www.doeleadershipcomputing.org/proposal/call-for-proposals/) | The US Department of Energy operates some of the worlds largest high-performance computers. Access to these systeems for large problems that align with DOE missions is available through competitive proposals to the INCITE program. 
 | | |
 | Open Science Grid | [OSG](https://opensciencegrid.org) | The Open Science Grid is a large-scale distributed computing platform that provides opportinistic cycles on all sorts of systems around the US and beyond. Its operations are supported by the US National Science Foundation, but many facilities allow opportunistic workloads from the Open Science Grid. Its primary area of application is massive ensembles of independent compute tasks of all sorts.
+| | |
+| Cloud Bank | [https://www.cloudbank.org](https://www.cloudbank.org) | Cloud Bank is an NSF sponsored intiative that aims to provide a unified portal to access multiple cloud providers. It supports several models, including incorporating cloud funding into proposals to certain NSF programs in a way that may be exclusive of MTDC F&A. The Cloud Bank effort also supports small educational grants of credits. 
 
 ### About this page
 
