@@ -4,9 +4,9 @@ This page provides a summary list and contact links for some key computing and s
 
 | Name          | URL           | Details     |
 | ------------- |:-------------:| ------------|
-| Microsoft Azure Cloud   | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | The cloud credits currently has a very limited set of Microsoft Azure credits available. These can be used for any of the Azure Virtual machines and Azure machine learning tools. The resources include clusters of recent generation Volta GPUs with high-speed interconnects, suitable for large machine learning workflows.  
+| Microsoft Azure Cloud   | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | The MIT cloud credits currently has a very limited set of Microsoft Azure credits available. These can be used for any of the Azure Virtual machines and Azure machine learning tools. The resources include clusters of recent generation Volta GPUs with high-speed interconnects, suitable for large machine learning workflows.  
 |               |                               |  
-| Google Compute Platform | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | Currently all credits for Google Compute Platform have been assigned to projects. Google does provide extensive direct credits to researchers. Further information is available from [abpadgett@google.com](mailto:abpadgett@google.com)  |
+| Google Compute Platform | [https://cloud.mit.edu/credits](https://cloud.mit.edu/credits) | Currently all MIT credits for Google Compute Platform have been assigned to projects. Google does provide extensive direct credits to researchers. Further information is available from [abpadgett@google.com](mailto:abpadgett@google.com)  |
 | | |
 | Amazon AWS | [https://aws.amazon.com](https://aws.amazon.com) |  Amazon has several programs that provide credits for computing and data storage for educational, research and societal good. Further information is available from [cnoonan@amazon.com ](mailto:cnoonan@amazon.com).
 | | |
